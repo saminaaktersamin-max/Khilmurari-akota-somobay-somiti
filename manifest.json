@@ -2,25 +2,25 @@
   "name": "খিলমুরারী একতা সমবায় সমিতি",
   "short_name": "খিলমুরারী সমিতি",
   "description": "খিলমুরারী একতা সমবায় সমিতি - সদস্য ব্যবস্থাপনা, সঞ্চয়, লোন ও হিসাব-নিকাশ অ্যাপ",
-  "start_url": "/",
-  "scope": "/",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#065f46",
   "lang": "bn",
   "icons": [
-  {
-    "src": "./logo-192.jpg",
-    "sizes": "192x192",
-    "type": "image/jpeg",
-    "purpose": "any"
-  },
-  {
-    "src": "./logo-512.jpg",
-    "sizes": "512x512",
-    "type": "image/jpeg",
-    "purpose": "any"
-  }
-]
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
 }
